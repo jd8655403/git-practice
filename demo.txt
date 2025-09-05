@@ -6,6 +6,7 @@ ABCF
 
 890
 12345kdjsflkdjlke
+<<<<<<< HEAD
 Testing merge again
 
 s1
@@ -14,3 +15,6 @@ s3
 s4
 
 version
+=======
+Testing merge again
+>>>>>>> 692dd0a46be7832d13ec4407f8720e177cce35fe
